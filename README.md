@@ -1,2 +1,7 @@
-# PugetSoundRiver_NO3Iso_MARSS
-Repo for Climate and landform interact to control the source and transport of nitrate in Pacific Northwest rivers
+# Climate and landform interact to control the source and transport of nitrate in Pacific Northwest rivers
+
+This repository houses the R scrips for the time series models from the manuscript, Climate and landform interact to control the source and transport of nitrate in Pacific Northwest rivers.
+
+**ABSTRACT**
+The hydrological effects of climate change are documented in many regions; however, climate-driven impacts to the source and transport of river nutrients remain poorly understood. Understanding the factors controlling nutrient dynamics across river systems is critical to preserve ecosystem function yet challenging given the complexity of landscape and climate interactions. Here, we harness a large regional dataset of nitrate (NO3–) yield, concentration, and isotopic composition (δ15N and δ18O) to evaluate the strength of hydroclimate and landscape variables in controlling the seasonal source and transport of NO3–.  We show that hydroclimate strongly influenced the seasonality of river NO3–, producing distinct, source-dependent NO3– regimes across rivers from two mountain ranges. Riverine responses to hydroclimate were also constrained by watershed-scale topographic features, demonstrating that while regional climate strongly influences the timing of river NO3– transport, watershed topography plays a distinct role in mediating the sensitivity of river NO3– dynamics to future change.
+
