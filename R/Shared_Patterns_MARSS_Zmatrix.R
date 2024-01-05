@@ -21,11 +21,11 @@ data <- read_csv(file.path(here("data", "model_data", "MARSS_NO3response_data.cs
 
 # Select response variable 
 yy <- data %>% select(time,
-                      NO3yield_km2_composite,#Change this per response variable
+                      NO3yield_km2_composite,# Change this per response variable
                      HEELCode)
 
 # Transposing and zscore matrix
-dat <- reshape2::acast(yy, HEELCode ~ time, value.var = "NO3yield_km2_composite")#Change this per response variable
+dat <- reshape2::acast(yy, HEELCode ~ time, value.var = "NO3yield_km2_composite")# Change this per response variable
 
 #Change this per response variable
 dat.log <- log(dat) #NO3mgL/NO3yield
@@ -102,8 +102,8 @@ for(i in 1:length(Z.models)){
 }
 
 min.AICc <- order(out.tab$AICc)
-out.tab.1 <- out.tab[min.AICc, ]%>%
-  cbind(.,delta.AICc = out.tab.1$AICc - out.tab.1$AICc[1])
+out.tab.1 <- out.tab[min.AICc, ]
+out.tab.1 <- cbind(out.tab.1,delta.AICc = out.tab.1$AICc - out.tab.1$AICc[1])
 out.tab.1
 
 

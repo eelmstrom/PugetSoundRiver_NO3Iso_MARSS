@@ -1,313 +1,313 @@
-date,time,HEELCode,river,station_name,mountain_range,NO3_mgL,d15Nvair,d18Ovsmow,NO3yield_km2_composite
-10/13/2014,1,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.11,6.20,20.68,0.33
-11/3/2014,2,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.17,2.18,-2.73,1.16
-12/8/2014,3,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.20,1.62,-3.15,1.40
-1/12/2015,4,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.22,1.18,0.14,1.95
-2/9/2015,5,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.39,2.94,0.00,2.16
-3/9/2015,6,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.28,3.90,0.52,0.84
-4/13/2015,7,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.27,4.98,1.06,0.52
-5/11/2015,8,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.17,4.70,7.94,0.29
-6/8/2015,9,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.16,4.10,1.14,0.23
-7/13/2015,10,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.11,4.40,-0.83,0.12
-8/17/2015,11,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.18,4.75,1.21,0.10
-9/21/2015,12,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.10,6.00,4.16,0.10
-10/12/2015,13,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.14,7.90,3.02,0.48
-11/2/2015,14,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.64,2.60,3.15,4.42
-12/7/2015,15,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.52,4.09,1.79,5.32
-1/4/2016,16,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.55,3.61,1.52,2.17
-2/8/2016,17,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.25,3.26,0.29,2.51
-3/7/2016,18,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.20,2.60,0.17,1.52
-4/11/2016,19,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.21,5.05,1.12,0.58
-5/9/2016,20,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.19,3.80,2.31,0.36
-6/13/2016,21,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.15,4.60,3.19,0.29
-7/11/2016,22,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.17,5.00,3.53,0.19
-8/22/2016,23,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.19,5.70,0.01,0.14
-9/12/2016,24,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.15,5.10,2.46,0.19
-10/13/2014,1,B,Green,Green R @ Tukwila,Cascade Range,0.23,NA,NA,0.72
-11/3/2014,2,B,Green,Green R @ Tukwila,Cascade Range,0.42,4.20,-1.89,2.38
-12/8/2014,3,B,Green,Green R @ Tukwila,Cascade Range,0.51,5.65,-0.77,2.22
-1/12/2015,4,B,Green,Green R @ Tukwila,Cascade Range,0.40,2.94,-0.51,2.76
-2/9/2015,5,B,Green,Green R @ Tukwila,Cascade Range,0.50,4.21,0.16,2.14
-3/9/2015,6,B,Green,Green R @ Tukwila,Cascade Range,0.56,4.90,8.35,1.17
-4/13/2015,7,B,Green,Green R @ Tukwila,Cascade Range,0.44,5.85,1.43,0.86
-5/11/2015,8,B,Green,Green R @ Tukwila,Cascade Range,0.35,5.10,5.90,0.46
-6/8/2015,9,B,Green,Green R @ Tukwila,Cascade Range,0.42,5.50,1.21,0.26
-7/13/2015,10,B,Green,Green R @ Tukwila,Cascade Range,0.21,6.58,0.39,0.12
-8/17/2015,11,B,Green,Green R @ Tukwila,Cascade Range,0.26,4.77,1.23,0.15
-9/21/2015,12,B,Green,Green R @ Tukwila,Cascade Range,0.33,5.30,4.68,0.23
-10/12/2015,13,B,Green,Green R @ Tukwila,Cascade Range,0.38,5.80,2.23,0.55
-11/2/2015,14,B,Green,Green R @ Tukwila,Cascade Range,0.54,1.70,2.77,4.53
-12/9/2015,15,B,Green,Green R @ Tukwila,Cascade Range,0.62,4.40,1.88,5.47
-1/4/2016,16,B,Green,Green R @ Tukwila,Cascade Range,0.89,4.53,2.36,3.02
-2/8/2016,17,B,Green,Green R @ Tukwila,Cascade Range,0.46,4.00,-0.98,3.32
-3/7/2016,18,B,Green,Green R @ Tukwila,Cascade Range,0.38,4.06,0.24,1.59
-4/11/2016,19,B,Green,Green R @ Tukwila,Cascade Range,0.24,7.04,0.88,0.78
-5/9/2016,20,B,Green,Green R @ Tukwila,Cascade Range,0.31,4.95,-0.92,0.50
-6/13/2016,21,B,Green,Green R @ Tukwila,Cascade Range,0.37,5.00,-2.12,0.40
-7/11/2016,22,B,Green,Green R @ Tukwila,Cascade Range,0.36,5.40,-1.10,0.28
-8/22/2016,23,B,Green,Green R @ Tukwila,Cascade Range,0.24,5.20,-0.90,0.18
-9/12/2016,24,B,Green,Green R @ Tukwila,Cascade Range,0.03,5.20,-0.83,0.06
-10/14/2014,1,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.28,1.53,-0.52,1.42
-11/4/2014,2,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.22,0.18,-2.56,2.31
-12/9/2014,3,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.28,4.65,-2.02,2.58
-1/13/2015,4,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.62,6.51,0.14,4.19
-2/10/2015,5,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.50,6.77,0.38,3.57
-3/10/2015,6,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.61,9.15,1.48,2.55
-4/14/2015,7,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.47,7.97,1.51,1.47
-5/12/2015,8,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.20,8.90,3.81,0.55
-6/9/2015,9,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.13,8.30,2.42,0.28
-7/14/2015,10,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.14,6.72,1.87,0.23
-8/18/2015,11,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.10,8.35,7.48,0.18
-9/22/2015,12,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.25,3.20,2.96,0.51
-10/13/2015,13,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.21,4.58,2.13,0.65
-11/3/2015,14,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.49,3.95,3.20,4.02
-12/8/2015,15,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.45,6.54,2.00,3.45
-1/5/2016,16,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.78,6.96,2.23,3.60
-2/9/2016,17,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.49,6.34,-0.91,3.89
-3/8/2016,18,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.47,6.93,0.48,2.36
-4/12/2016,19,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.28,7.55,2.35,1.19
-5/10/2016,20,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.20,8.30,2.70,0.64
-6/14/2016,21,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.15,6.30,6.14,0.53
-7/12/2016,22,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.14,9.00,5.32,0.36
-8/23/2016,23,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.16,9.50,2.62,0.24
-9/13/2016,24,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.19,9.40,3.70,0.31
-10/15/2014,1,E,Samish,Samish R nr Burlington,Cascade Range,0.73,3.34,-0.93,1.28
-11/5/2014,2,E,Samish,Samish R nr Burlington,Cascade Range,0.95,1.12,-0.31,4.46
-12/10/2014,3,E,Samish,Samish R nr Burlington,Cascade Range,0.92,2.18,-1.45,4.14
-1/14/2015,4,E,Samish,Samish R nr Burlington,Cascade Range,0.91,1.70,0.27,6.67
-2/11/2015,5,E,Samish,Samish R nr Burlington,Cascade Range,0.87,1.88,0.35,3.29
-3/11/2015,6,E,Samish,Samish R nr Burlington,Cascade Range,0.86,3.60,3.00,2.70
-4/15/2015,7,E,Samish,Samish R nr Burlington,Cascade Range,0.66,3.95,0.98,1.55
-5/13/2015,8,E,Samish,Samish R nr Burlington,Cascade Range,0.62,3.65,4.73,0.67
-6/10/2015,9,E,Samish,Samish R nr Burlington,Cascade Range,0.72,4.40,0.84,0.32
-7/15/2015,10,E,Samish,Samish R nr Burlington,Cascade Range,0.72,4.27,-0.15,0.19
-8/19/2015,11,E,Samish,Samish R nr Burlington,Cascade Range,0.68,4.11,1.55,0.16
-9/23/2015,12,E,Samish,Samish R nr Burlington,Cascade Range,0.53,4.71,1.95,0.24
-10/14/2015,13,E,Samish,Samish R nr Burlington,Cascade Range,0.48,4.20,2.31,0.40
-11/4/2015,14,E,Samish,Samish R nr Burlington,Cascade Range,0.81,3.60,4.89,7.00
-12/9/2015,15,E,Samish,Samish R nr Burlington,Cascade Range,1.06,2.29,4.29,6.74
-1/6/2016,16,E,Samish,Samish R nr Burlington,Cascade Range,0.99,3.22,1.41,3.41
-2/10/2016,17,E,Samish,Samish R nr Burlington,Cascade Range,0.78,2.03,-0.92,5.87
-3/9/2016,18,E,Samish,Samish R nr Burlington,Cascade Range,0.73,3.14,-0.44,2.89
-4/13/2016,19,E,Samish,Samish R nr Burlington,Cascade Range,0.59,3.59,0.30,1.48
-5/11/2016,20,E,Samish,Samish R nr Burlington,Cascade Range,0.68,4.30,1.73,0.53
-6/15/2016,21,E,Samish,Samish R nr Burlington,Cascade Range,0.49,3.90,1.83,0.41
-7/13/2016,22,E,Samish,Samish R nr Burlington,Cascade Range,0.62,4.70,2.59,0.27
-8/24/2016,23,E,Samish,Samish R nr Burlington,Cascade Range,0.68,4.80,2.15,0.19
-9/14/2016,24,E,Samish,Samish R nr Burlington,Cascade Range,0.65,4.80,1.50,0.27
-10/15/2014,1,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.11,1.27,-3.93,0.56
-11/5/2014,2,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.15,0.08,-6.25,1.19
-12/10/2014,3,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.10,-0.47,-3.50,0.79
-1/14/2015,4,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.15,-0.24,-1.76,1.06
-2/11/2015,5,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.14,0.01,1.67,1.02
-3/11/2015,6,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.11,1.00,0.68,0.59
-4/15/2015,7,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.12,1.12,-3.13,0.39
-5/13/2015,8,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.04,2.00,3.24,0.14
-6/10/2015,9,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.04,1.50,2.96,0.11
-7/15/2015,10,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.03,2.95,0.74,0.07
-8/19/2015,11,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.02,1.70,12.34,0.04
-9/23/2015,12,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.07,0.60,-2.74,0.15
-10/14/2015,13,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.10,0.90,-2.36,0.36
-11/4/2015,14,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.20,0.90,2.02,1.53
-12/9/2015,15,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.11,-1.08,-0.51,0.74
-1/6/2016,16,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.16,0.53,-0.71,0.95
-2/10/2016,17,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.12,-0.67,-3.16,1.00
-3/9/2016,18,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.12,1.47,-2.23,0.63
-4/13/2016,19,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.09,1.88,-1.43,0.46
-5/11/2016,20,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.06,1.30,-1.10,0.29
-6/15/2016,21,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.05,1.20,-2.57,0.25
-7/13/2016,22,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.04,3.30,-0.48,0.15
-8/24/2016,23,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.04,2.80,-2.54,0.09
-9/14/2016,24,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.03,1.30,-4.53,0.10
-10/15/2014,1,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.43,0.37,-2.64,2.97
-11/5/2014,2,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.31,0.26,-1.70,4.27
-12/10/2014,3,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.23,0.45,-3.44,2.45
-1/14/2015,4,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.38,1.76,-0.17,4.42
-2/11/2015,5,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.29,1.22,-0.94,2.82
-3/11/2015,6,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.32,2.90,6.53,2.58
-4/15/2015,7,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.25,1.93,-2.04,1.14
-5/13/2015,8,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.11,5.90,5.26,0.28
-6/10/2015,9,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.14,6.00,0.75,0.15
-7/15/2015,10,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.06,10.15,12.21,0.05
-8/19/2015,11,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.03,11.40,2.47,0.04
-9/23/2015,12,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.25,2.70,4.56,0.43
-10/14/2015,13,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.23,2.40,6.01,1.18
-11/4/2015,14,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.35,2.60,6.33,4.93
-12/9/2015,15,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.19,1.56,0.86,2.63
-1/6/2016,16,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.47,2.41,1.00,4.34
-2/10/2016,17,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.20,2.35,-0.94,3.10
-3/9/2016,18,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.21,3.58,0.14,2.20
-4/13/2016,19,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.14,3.39,1.80,0.76
-5/11/2016,20,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.07,7.30,0.69,0.31
-6/15/2016,21,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.21,0.30,-0.64,0.56
-7/13/2016,22,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.09,5.85,0.15,0.20
-8/24/2016,23,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.04,10.70,1.60,0.05
-9/14/2016,24,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.06,9.90,1.54,0.24
-10/13/2014,1,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.13,5.37,-4.70,0.87
-11/3/2014,2,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.31,4.40,0.21,3.14
-12/8/2014,3,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.30,2.73,-0.64,2.40
-1/12/2015,4,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.33,2.14,-0.03,3.13
-2/9/2015,5,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.31,1.56,0.20,2.41
-3/9/2015,6,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.34,4.70,4.40,1.44
-4/13/2015,7,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.25,3.30,-1.32,1.00
-5/11/2015,8,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.14,5.17,7.77,0.37
-6/8/2015,9,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.14,5.20,4.59,0.17
-7/13/2015,10,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.12,7.56,8.39,0.09
-8/17/2015,11,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.07,9.20,0.17,0.06
-9/21/2015,12,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.15,5.90,7.05,0.17
-10/12/2015,13,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.35,0.39,0.45,0.87
-11/2/2015,14,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.33,1.20,5.45,4.97
-12/7/2015,15,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.43,2.44,2.82,3.12
-1/4/2016,16,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.45,3.67,2.12,1.61
-2/10/2016,17,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.25,1.75,-0.77,2.57
-3/9/2016,18,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.24,3.65,-0.36,1.59
-4/13/2016,19,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.14,4.03,1.60,0.87
-5/11/2016,20,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.09,5.95,2.73,0.42
-6/15/2016,21,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.08,4.50,1.07,0.35
-7/13/2016,22,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.12,5.40,2.40,0.23
-8/24/2016,23,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.15,7.10,0.73,0.15
-9/14/2016,24,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.10,7.90,-0.24,0.18
-10/27/2014,1,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.06,1.04,-8.53,0.54
-11/17/2014,2,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.05,1.89,-7.11,0.47
-12/15/2014,3,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.04,1.18,-5.97,0.58
-1/26/2015,4,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.03,-0.20,0.90,0.24
-2/23/2015,5,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.02,2.20,3.86,0.29
-3/23/2015,6,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.04,0.20,-3.47,0.16
-4/27/2015,7,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,0.10,1.59,0.04
-5/18/2015,8,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,-0.50,5.48,0.02
-6/22/2015,9,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,0.20,12.06,0.01
-7/27/2015,10,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.03,0.00,-4.05,0.01
-8/17/2015,11,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.02,0.30,-4.43,0.03
-9/28/2015,12,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.06,0.80,4.59,0.07
-10/26/2015,13,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.05,1.95,2.85,0.13
-11/16/2015,14,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.08,0.10,0.82,0.77
-12/1/2015,15,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,NA,NA,NA,0.91
-1/11/2016,16,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.04,0.90,-4.57,0.49
-2/22/2016,17,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.03,0.80,-3.15,0.28
-3/28/2016,18,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,1.70,6.10,0.21
-4/25/2016,19,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.02,-0.20,-1.79,0.13
-5/23/2016,20,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,5.90,24.22,0.09
-6/27/2016,21,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,NA,NA,0.05
-7/25/2016,22,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,1.60,6.53,0.02
-8/29/2016,23,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,1.50,7.44,0.01
-9/26/2016,24,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.02,0.30,-2.09,0.01
-10/29/2014,1,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.19,5.18,-2.16,0.45
-11/19/2014,2,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.28,6.23,-1.07,1.26
-12/17/2014,3,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.27,5.85,-1.22,1.38
-1/28/2015,4,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.26,5.03,1.21,1.51
-2/25/2015,5,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.33,7.88,1.67,1.19
-3/25/2015,6,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.39,NA,NA,1.23
-4/29/2015,7,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.18,10.05,1.94,0.59
-5/20/2015,8,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.12,10.70,6.23,0.29
-6/24/2015,9,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.17,11.80,3.41,0.24
-7/29/2015,10,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.15,11.78,2.56,0.26
-8/19/2015,11,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.11,7.71,2.38,0.19
-9/1/2015,12,J,Puyallup,Puyallup R @ Meridian,Cascade Range,NA,13.50,2.24,0.16
-10/28/2015,13,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.29,9.36,7.61,0.43
-11/18/2015,14,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.36,2.90,4.95,2.55
-12/9/2015,15,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.40,4.38,2.91,3.11
-1/13/2016,16,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.39,7.00,5.20,1.79
-2/24/2016,17,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.22,5.43,0.14,1.61
-3/30/2016,18,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.26,7.84,1.49,1.14
-4/27/2016,19,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.13,10.33,3.44,0.63
-5/25/2016,20,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.12,9.90,6.72,0.37
-6/29/2016,21,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.11,10.10,4.04,0.34
-7/27/2016,22,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.14,9.40,2.45,0.29
-8/31/2016,23,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.16,12.40,4.41,0.25
-9/28/2016,24,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.18,10.00,0.08,0.24
-10/29/2014,1,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.25,3.38,-3.03,0.20
-11/19/2014,2,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.15,3.87,-5.70,0.40
-12/17/2014,3,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.24,3.03,-0.45,0.74
-1/28/2015,4,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.30,3.38,0.60,1.01
-2/25/2015,5,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.30,4.95,0.91,0.89
-3/25/2015,6,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.40,3.90,6.23,0.48
-4/29/2015,7,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.25,6.07,-0.10,0.37
-5/20/2015,8,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.20,5.50,3.44,0.19
-6/24/2015,9,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.14,6.60,3.03,0.10
-7/29/2015,10,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.14,6.50,1.99,0.08
-8/19/2015,11,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.15,6.68,2.23,0.09
-9/1/2015,12,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,NA,6.65,4.87,0.15
-10/28/2015,13,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.30,3.90,2.40,0.22
-11/18/2015,14,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.55,3.50,5.80,1.27
-12/1/2015,15,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,NA,NA,NA,3.08
-1/13/2016,16,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.44,3.80,2.52,1.71
-2/24/2016,17,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.50,5.43,-1.06,2.24
-3/30/2016,18,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.27,5.47,1.11,1.45
-4/27/2016,19,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.25,6.40,1.24,0.47
-5/25/2016,20,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.16,5.70,4.07,0.15
-6/29/2016,21,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.12,6.25,3.90,0.10
-7/27/2016,22,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.13,6.65,2.80,0.09
-8/31/2016,23,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.12,6.15,1.07,0.09
-9/28/2016,24,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.11,6.50,0.58,0.08
-10/27/2014,1,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.09,1.08,-3.28,0.58
-11/17/2014,2,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.08,0.92,-8.18,0.89
-12/15/2014,3,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.08,0.56,-6.46,0.83
-1/26/2015,4,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.07,0.00,-0.49,0.51
-2/23/2015,5,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.06,1.10,-2.53,0.48
-3/23/2015,6,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.06,0.30,-2.46,0.34
-4/27/2015,7,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.03,NA,NA,0.12
-5/18/2015,8,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.03,1.40,-2.38,0.05
-6/22/2015,9,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.03,1.20,-3.07,0.04
-7/27/2015,10,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.03,2.00,-1.97,0.03
-8/17/2015,11,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.03,1.60,-4.00,0.04
-9/28/2015,12,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.04,1.10,1.65,0.07
-10/26/2015,13,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.16,0.57,1.41,0.30
-11/16/2015,14,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.11,0.20,4.21,1.14
-12/7/2015,15,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.06,0.20,2.83,0.88
-1/11/2016,16,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.08,0.85,-2.56,0.76
-2/22/2016,17,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.05,0.50,1.21,0.66
-3/28/2016,18,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.04,1.10,-2.06,0.55
-4/25/2016,19,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.02,1.20,-0.58,0.13
-5/23/2016,20,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.02,3.70,2.41,0.05
-6/27/2016,21,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.03,2.20,1.43,0.04
-7/25/2016,22,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.03,2.70,2.50,0.04
-8/29/2016,23,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,NA,NA,NA,0.03
-9/26/2016,24,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.04,2.40,-1.54,0.05
-10/27/2014,1,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.63,2.45,-2.54,1.24
-11/17/2014,2,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.79,5.04,-0.39,2.48
-12/15/2014,3,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.68,3.68,-1.44,2.62
-1/26/2015,4,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.76,2.93,3.98,2.86
-2/23/2015,5,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.83,4.91,1.56,2.81
-3/23/2015,6,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.74,4.60,7.52,2.34
-4/27/2015,7,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.62,6.16,-0.65,1.64
-5/18/2015,8,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.64,NA,NA,0.88
-6/22/2015,9,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.78,6.80,2.21,0.58
-7/27/2015,10,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.57,5.26,1.18,0.41
-8/17/2015,11,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.80,6.32,1.89,0.41
-9/28/2015,12,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.78,6.40,2.89,0.42
-10/26/2015,13,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.76,6.69,9.38,0.50
-11/16/2015,14,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.93,2.80,4.38,4.44
-12/7/2015,15,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.57,1.52,4.21,5.03
-1/11/2016,16,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.95,4.80,3.42,3.92
-2/22/2016,17,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.68,2.90,-0.14,3.33
-3/28/2016,18,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.63,5.51,0.42,3.84
-4/25/2016,19,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.74,6.09,0.36,1.63
-5/23/2016,20,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.82,5.70,-0.48,1.08
-6/27/2016,21,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.71,7.00,3.79,0.75
-7/25/2016,22,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.83,6.20,3.09,0.61
-8/29/2016,23,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.88,6.30,1.41,0.60
-9/26/2016,24,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.80,NA,NA,0.51
-10/29/2014,1,Z,Elwha,Elwha @ Port Angeles,olympics,0.05,0.08,-3.97,0.23
-11/19/2014,2,Z,Elwha,Elwha @ Port Angeles,olympics,0.04,0.76,-8.79,0.46
-12/1/2014,3,Z,Elwha,Elwha @ Port Angeles,olympics,NA,-0.39,-7.26,0.62
-1/28/2015,4,Z,Elwha,Elwha @ Port Angeles,olympics,0.05,0.50,-3.70,0.35
-2/25/2015,5,Z,Elwha,Elwha @ Port Angeles,olympics,0.05,1.10,-3.32,0.47
-3/25/2015,6,Z,Elwha,Elwha @ Port Angeles,olympics,0.05,0.60,-1.43,0.20
-4/29/2015,7,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,0.60,16.70,0.07
-5/20/2015,8,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,3.10,20.40,0.03
-6/24/2015,9,Z,Elwha,Elwha @ Port Angeles,olympics,0.02,0.80,0.94,0.03
-7/29/2015,10,Z,Elwha,Elwha @ Port Angeles,olympics,0.03,1.30,2.68,0.03
-8/19/2015,11,Z,Elwha,Elwha @ Port Angeles,olympics,0.03,0.20,0.85,0.03
-9/30/2015,12,Z,Elwha,Elwha @ Port Angeles,olympics,0.04,0.80,4.14,0.06
-10/28/2015,13,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,3.20,3.74,0.05
-11/18/2015,14,Z,Elwha,Elwha @ Port Angeles,olympics,0.08,0.40,-1.86,0.52
-12/9/2015,15,Z,Elwha,Elwha @ Port Angeles,olympics,0.05,-0.30,-2.52,0.43
-1/13/2016,16,Z,Elwha,Elwha @ Port Angeles,olympics,0.05,0.70,-4.66,0.36
-2/24/2016,17,Z,Elwha,Elwha @ Port Angeles,olympics,0.04,1.70,1.81,0.37
-3/30/2016,18,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,1.30,15.41,0.16
-4/27/2016,19,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,0.50,11.64,0.07
-5/25/2016,20,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,-0.90,47.72,0.06
-6/29/2016,21,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,1.70,31.31,0.05
-7/27/2016,22,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,-5.10,43.38,0.03
-8/31/2016,23,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,0.70,7.99,0.01
-9/28/2016,24,Z,Elwha,Elwha @ Port Angeles,olympics,0.02,-0.10,8.48,0.01
+date,time,HEELCode,river,station_name,mountain_range,NO3_mgL,d15N_vAIR,d18O_vSMOW,NO3yield_km2_composite
+10/13/2014,1,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.107,6.2037,20.68374087,0.334604216
+11/3/2014,2,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.17,2.17835,-2.731774348,1.155210696
+12/8/2014,3,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.199,1.61815,-3.149553465,1.402186396
+1/12/2015,4,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.218,1.1781,0.143453501,1.951787497
+2/9/2015,5,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.389,2.9432,-0.001945686,2.163112804
+3/9/2015,6,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.277,3.9,0.519678661,0.837028374
+4/13/2015,7,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.268,4.9754,1.057260778,0.524642378
+5/11/2015,8,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.167,4.7,7.944251401,0.289615343
+6/8/2015,9,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.163,4.1,1.137100518,0.23054353
+7/13/2015,10,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.11,4.3994,-0.832582641,0.124329077
+8/17/2015,11,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.175,4.7497,1.212201969,0.097592813
+9/21/2015,12,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.104,6,4.16081391,0.103909322
+10/12/2015,13,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.144,7.9,3.023625276,0.482273085
+11/2/2015,14,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.635,2.6,3.147463522,4.418753595
+12/7/2015,15,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.518,4.0925,1.790489459,5.320268063
+1/4/2016,16,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.545,3.607,1.520872487,2.174299931
+2/8/2016,17,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.251,3.2633,0.286988244,2.505677385
+3/7/2016,18,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.203,2.6031,0.171000974,1.518997204
+4/11/2016,19,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.207,5.0465,1.118541954,0.580837601
+5/9/2016,20,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.19,3.8,2.31386883,0.364292436
+6/13/2016,21,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.152,4.6,3.186955348,0.29337099
+7/11/2016,22,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.174,5,3.534215739,0.189575111
+8/22/2016,23,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.186,5.7,0.012829524,0.139022636
+9/12/2016,24,A,Cedar,Cedar R @ Logan St/Renton,Cascade Range,0.15,5.1,2.459370613,0.191652766
+10/13/2014,1,B,Green,Green R @ Tukwila,Cascade Range,0.232,NA,NA,0.724563416
+11/3/2014,2,B,Green,Green R @ Tukwila,Cascade Range,0.423,4.2036,-1.893620628,2.381152899
+12/8/2014,3,B,Green,Green R @ Tukwila,Cascade Range,0.511,5.65465,-0.774383418,2.223243738
+1/12/2015,4,B,Green,Green R @ Tukwila,Cascade Range,0.398,2.9414,-0.506893781,2.757890881
+2/9/2015,5,B,Green,Green R @ Tukwila,Cascade Range,0.499,4.2107,0.155413324,2.137069777
+3/9/2015,6,B,Green,Green R @ Tukwila,Cascade Range,0.564,4.9,8.348983546,1.174245355
+4/13/2015,7,B,Green,Green R @ Tukwila,Cascade Range,0.443,5.854,1.429509483,0.858587226
+5/11/2015,8,B,Green,Green R @ Tukwila,Cascade Range,0.345,5.1,5.896648914,0.4613812
+6/8/2015,9,B,Green,Green R @ Tukwila,Cascade Range,0.419,5.5,1.207448463,0.264928814
+7/13/2015,10,B,Green,Green R @ Tukwila,Cascade Range,0.205,6.5795,0.394363358,0.117538424
+8/17/2015,11,B,Green,Green R @ Tukwila,Cascade Range,0.261,4.7711,1.230316629,0.153506765
+9/21/2015,12,B,Green,Green R @ Tukwila,Cascade Range,0.325,5.3,4.682907395,0.22724454
+10/12/2015,13,B,Green,Green R @ Tukwila,Cascade Range,0.381,5.7965,2.227280939,0.552540735
+11/2/2015,14,B,Green,Green R @ Tukwila,Cascade Range,0.54,1.7,2.76527331,4.533371553
+12/9/2015,15,B,Green,Green R @ Tukwila,Cascade Range,0.617,4.4016,1.87696661,5.473840202
+1/4/2016,16,B,Green,Green R @ Tukwila,Cascade Range,0.887,4.5291,2.359379079,3.017225121
+2/8/2016,17,B,Green,Green R @ Tukwila,Cascade Range,0.456,3.9999,-0.982380296,3.324300151
+3/7/2016,18,B,Green,Green R @ Tukwila,Cascade Range,0.382,4.0632,0.235807988,1.591932385
+4/11/2016,19,B,Green,Green R @ Tukwila,Cascade Range,0.241,7.0375,0.877215857,0.77908566
+5/9/2016,20,B,Green,Green R @ Tukwila,Cascade Range,0.308,4.95,-0.923085355,0.498858372
+6/13/2016,21,B,Green,Green R @ Tukwila,Cascade Range,0.368,5,-2.122636519,0.40232987
+7/11/2016,22,B,Green,Green R @ Tukwila,Cascade Range,0.362,5.4,-1.10293139,0.279587459
+8/22/2016,23,B,Green,Green R @ Tukwila,Cascade Range,0.239,5.2,-0.901410204,0.17941735
+9/12/2016,24,B,Green,Green R @ Tukwila,Cascade Range,0.034,5.2,-0.829957173,0.062058826
+10/14/2014,1,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.278,1.5288,-0.520285693,1.416671166
+11/4/2014,2,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.215,0.17993,-2.558806667,2.305253755
+12/9/2014,3,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.278,4.649,-2.016813324,2.58062577
+1/13/2015,4,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.62,6.511,0.144939053,4.193010715
+2/10/2015,5,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.501,6.7692,0.376113228,3.574078177
+3/10/2015,6,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.613,9.1494,1.480900989,2.549365649
+4/14/2015,7,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.468,7.9668,1.510390138,1.469280995
+5/12/2015,8,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.196,8.9,3.811477787,0.549375264
+6/9/2015,9,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.134,8.3,2.417158586,0.282572681
+7/14/2015,10,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.137,6.7159,1.872970605,0.226438017
+8/18/2015,11,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.096,8.3455,7.481794128,0.179806125
+9/22/2015,12,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.251,3.2,2.956410014,0.510084829
+10/13/2015,13,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.213,4.5846,2.127429593,0.651769252
+11/3/2015,14,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.491,3.95,3.20289939,4.015321972
+12/8/2015,15,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.454,6.5407,1.996912174,3.451456531
+1/5/2016,16,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.779,6.9558,2.226968554,3.604752192
+2/9/2016,17,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.489,6.3411,-0.90761143,3.892269821
+3/8/2016,18,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.471,6.9297,0.475601221,2.364026071
+4/12/2016,19,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.277,7.5548,2.350765668,1.190220084
+5/10/2016,20,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.201,8.3,2.704214082,0.644758189
+6/14/2016,21,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.146,6.3,6.143920428,0.525336176
+7/12/2016,22,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.143,9,5.316944066,0.358389884
+8/23/2016,23,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.159,9.5,2.617487743,0.242171018
+9/13/2016,24,C,Nooksack,Nooksack R @ Brennan,Cascade Range,0.193,9.4,3.703746225,0.310015267
+10/15/2014,1,E,Samish,Samish R nr Burlington,Cascade Range,0.727,3.3355,-0.932361755,1.281097371
+11/5/2014,2,E,Samish,Samish R nr Burlington,Cascade Range,0.948,1.1197,-0.312538095,4.456415012
+12/10/2014,3,E,Samish,Samish R nr Burlington,Cascade Range,0.921,2.1791,-1.452707416,4.135211207
+1/14/2015,4,E,Samish,Samish R nr Burlington,Cascade Range,0.912,1.7001,0.274981103,6.67417185
+2/11/2015,5,E,Samish,Samish R nr Burlington,Cascade Range,0.873,1.882,0.349846763,3.287189935
+3/11/2015,6,E,Samish,Samish R nr Burlington,Cascade Range,0.858,3.6,3.002215076,2.704841284
+4/15/2015,7,E,Samish,Samish R nr Burlington,Cascade Range,0.655,3.953,0.984913104,1.554484402
+5/13/2015,8,E,Samish,Samish R nr Burlington,Cascade Range,0.62,3.65,4.732482102,0.674404728
+6/10/2015,9,E,Samish,Samish R nr Burlington,Cascade Range,0.718,4.4,0.838564254,0.319566151
+7/15/2015,10,E,Samish,Samish R nr Burlington,Cascade Range,0.719,4.26655,-0.150608122,0.188050657
+8/19/2015,11,E,Samish,Samish R nr Burlington,Cascade Range,0.677,4.1145,1.549625067,0.159308615
+9/23/2015,12,E,Samish,Samish R nr Burlington,Cascade Range,0.534,4.7142,1.949689421,0.242018673
+10/14/2015,13,E,Samish,Samish R nr Burlington,Cascade Range,0.484,4.2018,2.311791673,0.403163861
+11/4/2015,14,E,Samish,Samish R nr Burlington,Cascade Range,0.81,3.6,4.894289937,6.995209996
+12/9/2015,15,E,Samish,Samish R nr Burlington,Cascade Range,1.06,2.289,4.285078784,6.743485299
+1/6/2016,16,E,Samish,Samish R nr Burlington,Cascade Range,0.988,3.2194,1.407216429,3.406167385
+2/10/2016,17,E,Samish,Samish R nr Burlington,Cascade Range,0.782,2.025,-0.917612269,5.867424863
+3/9/2016,18,E,Samish,Samish R nr Burlington,Cascade Range,0.731,3.1405,-0.438268743,2.886466818
+4/13/2016,19,E,Samish,Samish R nr Burlington,Cascade Range,0.588,3.5922,0.299535853,1.484528451
+5/11/2016,20,E,Samish,Samish R nr Burlington,Cascade Range,0.676,4.3,1.732273425,0.52524683
+6/15/2016,21,E,Samish,Samish R nr Burlington,Cascade Range,0.486,3.9,1.831436921,0.405357534
+7/13/2016,22,E,Samish,Samish R nr Burlington,Cascade Range,0.624,4.7,2.589943302,0.273092796
+8/24/2016,23,E,Samish,Samish R nr Burlington,Cascade Range,0.684,4.8,2.154747001,0.190509315
+9/14/2016,24,E,Samish,Samish R nr Burlington,Cascade Range,0.651,4.8,1.498817244,0.267536483
+10/15/2014,1,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.108,1.2682,-3.929465042,0.559913976
+11/5/2014,2,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.149,0.075613,-6.248734168,1.189810467
+12/10/2014,3,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.103,-0.47181,-3.495830081,0.79378464
+1/14/2015,4,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.149,-0.24098,-1.763295617,1.057207989
+2/11/2015,5,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.136,0.0078001,1.673111797,1.022781165
+3/11/2015,6,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.107,1,0.678755929,0.593444072
+4/15/2015,7,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.119,1.1217,-3.131331681,0.390542641
+5/13/2015,8,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.036,2,3.236297322,0.138565336
+6/10/2015,9,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.037,1.5,2.956802052,0.106281739
+7/15/2015,10,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.029,2.95,0.74073237,0.066886957
+8/19/2015,11,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.015,1.7,12.34161905,0.035740322
+9/23/2015,12,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.068,0.6,-2.742439493,0.14623937
+10/14/2015,13,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.098,0.9,-2.358684402,0.355147874
+11/4/2015,14,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.195,0.9,2.0152354,1.529312574
+12/9/2015,15,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.113,-1.0849,-0.505224821,0.737819158
+1/6/2016,16,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.156,0.53355,-0.711477844,0.948081712
+2/10/2016,17,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.119,-0.67421,-3.164770916,0.999556349
+3/9/2016,18,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.115,1.4725,-2.227872395,0.628420716
+4/13/2016,19,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.086,1.8772,-1.433337948,0.456895926
+5/11/2016,20,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.059,1.3,-1.097718286,0.290165991
+6/15/2016,21,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.047,1.2,-2.571902979,0.246230345
+7/13/2016,22,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.035,3.3,-0.482381735,0.145314587
+8/24/2016,23,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.037,2.8,-2.542986186,0.087476976
+9/14/2016,24,F,Skagit,Skagit R nr Mount Vernon,Cascade Range,0.029,1.3,-4.525822604,0.099757519
+10/15/2014,1,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.428,0.3736,-2.642497224,2.967300162
+11/5/2014,2,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.308,0.25759,-1.699028798,4.267408856
+12/10/2014,3,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.225,0.45205,-3.443932399,2.446726823
+1/14/2015,4,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.382,1.7604,-0.165251212,4.422809778
+2/11/2015,5,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.287,1.2201,-0.9390164,2.818642522
+3/11/2015,6,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.32,2.9,6.53125514,2.575264688
+4/15/2015,7,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.25,1.9293,-2.040646821,1.141352648
+5/13/2015,8,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.111,5.9,5.26372366,0.281995363
+6/10/2015,9,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.137,6,0.752929801,0.145567535
+7/15/2015,10,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.055,10.15,12.20567032,0.045475304
+8/19/2015,11,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.03,11.4,2.474140071,0.041571601
+9/23/2015,12,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.252,2.7,4.559093213,0.4327812
+10/14/2015,13,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.229,2.4,6.012274801,1.175971159
+11/4/2015,14,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.347,2.6,6.325561401,4.928468711
+12/9/2015,15,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.188,1.5588,0.856073611,2.626348489
+1/6/2016,16,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.469,2.4115,0.995656676,4.340854262
+2/10/2016,17,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.2,2.3472,-0.936534759,3.098677683
+3/9/2016,18,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.212,3.5775,0.137197236,2.195724634
+4/13/2016,19,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.139,3.3854,1.796889611,0.755555323
+5/11/2016,20,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.069,7.3,0.691354895,0.305075696
+6/15/2016,21,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.209,0.3,-0.635347883,0.557739134
+7/13/2016,22,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.094,5.85,0.154677856,0.199893752
+8/24/2016,23,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.044,10.7,1.602116341,0.054508951
+9/14/2016,24,G,Stillaguamish,Stillaguamish R nr Silvana,Cascade Range,0.064,9.9,1.541012975,0.239295856
+10/13/2014,1,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.127,5.3705,-4.704938521,0.871494423
+11/3/2014,2,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.311,4.4,0.205141988,3.142355378
+12/8/2014,3,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.296,2.7319,-0.635527126,2.399861274
+1/12/2015,4,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.329,2.1446,-0.026578017,3.133160125
+2/9/2015,5,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.305,1.5633,0.196581598,2.409510641
+3/9/2015,6,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.343,4.7,4.399570695,1.440028111
+4/13/2015,7,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.251,3.2951,-1.319681496,0.995139709
+5/11/2015,8,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.135,5.166666667,7.773914669,0.373775087
+6/8/2015,9,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.14,5.2,4.586513369,0.171970558
+7/13/2015,10,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.122,7.5556,8.388485705,0.09335064
+8/17/2015,11,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.074,9.2,0.171340585,0.058298291
+9/21/2015,12,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.146,5.9,7.048160654,0.172845062
+10/12/2015,13,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.353,0.39072,0.445564208,0.873271468
+11/2/2015,14,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.327,1.2,5.450387118,4.966553371
+12/7/2015,15,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.431,2.4366,2.81663752,3.119833688
+1/4/2016,16,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.447,3.6723,2.115292077,1.613434985
+2/10/2016,17,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.247,1.7511,-0.77308291,2.572202638
+3/9/2016,18,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.239,3.6526,-0.362468496,1.590532016
+4/13/2016,19,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.136,4.0311,1.602940553,0.874571134
+5/11/2016,20,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.085,5.95,2.728338013,0.424662711
+6/15/2016,21,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.083,4.5,1.071046598,0.346795051
+7/13/2016,22,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.115,5.4,2.401342242,0.23499235
+8/24/2016,23,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.153,7.1,0.726889154,0.154981004
+9/14/2016,24,H,Snohomish,Snohomish R @ Snohomish,Cascade Range,0.101,7.9,-0.237935591,0.18307044
+10/27/2014,1,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.059,1.0372,-8.52912097,0.541266205
+11/17/2014,2,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.047,1.8931,-7.112767795,0.465582539
+12/15/2014,3,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.038,1.1812,-5.974242123,0.582116577
+1/26/2015,4,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.031,-0.2,0.898141245,0.237251433
+2/23/2015,5,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.023,2.2,3.856942567,0.290347449
+3/23/2015,6,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.036,0.2,-3.467285173,0.156213009
+4/27/2015,7,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,0.1,1.585880933,0.043575782
+5/18/2015,8,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,-0.5,5.482818636,0.018603398
+6/22/2015,9,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,0.2,12.05937243,0.011431907
+7/27/2015,10,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.03,0,-4.048760773,0.014681272
+8/17/2015,11,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.023,0.3,-4.43491327,0.029264869
+9/28/2015,12,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.058,0.8,4.592674965,0.070529238
+10/26/2015,13,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.048,1.95,2.854746635,0.126136618
+11/16/2015,14,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.083,0.1,0.815173996,0.765132565
+12/1/2015,15,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,NA,NA,NA,0.914137924
+1/11/2016,16,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.036,0.9,-4.571241653,0.494169053
+2/22/2016,17,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.027,0.8,-3.147157762,0.283848986
+3/28/2016,18,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,1.7,6.104898275,0.208617017
+4/25/2016,19,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.022,-0.2,-1.794482229,0.134108516
+5/23/2016,20,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,5.9,24.2166796,0.085829964
+6/27/2016,21,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,NA,NA,0.047109827
+7/25/2016,22,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.01,1.6,6.527586286,0.023582803
+8/29/2016,23,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.012,1.5,7.440238635,0.01321633
+9/26/2016,24,I,Duckabush,Duckabush R nr Brinnon,Olympic Mountains,0.015,0.3,-2.0907178,0.011665692
+10/29/2014,1,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.185,5.1808,-2.156220667,0.454973067
+11/19/2014,2,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.275,6.2305,-1.070288163,1.26380609
+12/17/2014,3,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.274,5.8479,-1.217586774,1.383051686
+1/28/2015,4,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.26,5.0286,1.209731301,1.514028338
+2/25/2015,5,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.331,7.8825,1.665369997,1.188831487
+3/25/2015,6,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.39,NA,NA,1.230673464
+4/29/2015,7,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.175,10.0502,1.938508541,0.58709638
+5/20/2015,8,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.119,10.7,6.233823701,0.288435276
+6/24/2015,9,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.165,11.8,3.410009519,0.23597474
+7/29/2015,10,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.15,11.77725,2.555818642,0.263332332
+8/19/2015,11,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.109,7.7124,2.378451593,0.189400789
+9/1/2015,12,J,Puyallup,Puyallup R @ Meridian,Cascade Range,NA,13.5,2.239700761,0.161956016
+10/28/2015,13,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.291,9.3551,7.612374716,0.429255035
+11/18/2015,14,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.361,2.9,4.950943735,2.55276389
+12/9/2015,15,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.401,4.381,2.91472175,3.10503411
+1/13/2016,16,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.389,7,5.203398566,1.788199154
+2/24/2016,17,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.224,5.428,0.141838132,1.607217716
+3/30/2016,18,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.259,7.8432,1.492962099,1.140812245
+4/27/2016,19,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.129,10.3279,3.435195711,0.630600593
+5/25/2016,20,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.116,9.9,6.716001897,0.372359184
+6/29/2016,21,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.11,10.1,4.041355654,0.338152839
+7/27/2016,22,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.142,9.4,2.450209601,0.292730107
+8/31/2016,23,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.164,12.4,4.41470024,0.252820185
+9/28/2016,24,J,Puyallup,Puyallup R @ Meridian,Cascade Range,0.181,10,0.081421457,0.24059825
+10/29/2014,1,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.246,3.3844,-3.033132829,0.201210564
+11/19/2014,2,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.149,3.8702,-5.697501295,0.39616141
+12/17/2014,3,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.235,3.0319,-0.45415607,0.744266247
+1/28/2015,4,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.303,3.3797,0.595237221,1.008004614
+2/25/2015,5,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.3,4.945,0.91053334,0.886916733
+3/25/2015,6,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.404,3.9,6.234583714,0.481100148
+4/29/2015,7,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.252,6.0668,-0.096042198,0.37315613
+5/20/2015,8,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.198,5.5,3.439352861,0.191152794
+6/24/2015,9,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.142,6.6,3.029711052,0.098111405
+7/29/2015,10,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.135,6.5,1.987459723,0.083342055
+8/19/2015,11,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.149,6.6799,2.227857477,0.093981979
+9/1/2015,12,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,NA,6.65,4.868165466,0.146380397
+10/28/2015,13,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.303,3.9027,2.39699811,0.218607381
+11/18/2015,14,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.554,3.5,5.798736679,1.270910085
+12/1/2015,15,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,NA,NA,NA,3.077668707
+1/13/2016,16,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.444,3.8,2.516842368,1.711306848
+2/24/2016,17,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.5,5.4342,-1.058880974,2.235373134
+3/30/2016,18,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.268,5.4736,1.111816531,1.449234496
+4/27/2016,19,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.245,6.3999,1.244337536,0.474413864
+5/25/2016,20,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.162,5.7,4.074556964,0.150003606
+6/29/2016,21,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.124,6.25,3.899311796,0.099854952
+7/27/2016,22,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.128,6.65,2.799861943,0.091496105
+8/31/2016,23,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.117,6.15,1.070061132,0.087489947
+9/28/2016,24,K,Nisqually,Nisqually R @ Nisqually,Cascade Range,0.112,6.5,0.577227736,0.081014694
+10/27/2014,1,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.086,1.0806,-3.279622908,0.577669149
+11/17/2014,2,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.077,0.91873,-8.180262236,0.894914589
+12/15/2014,3,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.08,0.56183,-6.45539678,0.828646158
+1/26/2015,4,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.068,0,-0.485409975,0.512482594
+2/23/2015,5,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.063,1.1,-2.527624879,0.476324387
+3/23/2015,6,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.061,0.3,-2.458460264,0.34381388
+4/27/2015,7,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.029,NA,NA,0.122410706
+5/18/2015,8,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.027,1.4,-2.380083482,0.054628764
+6/22/2015,9,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.032,1.2,-3.065373689,0.044548914
+7/27/2015,10,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.033,2,-1.966690101,0.034060719
+8/17/2015,11,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.034,1.6,-3.999520782,0.038867447
+9/28/2015,12,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.04,1.1,1.654398069,0.067416607
+10/26/2015,13,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.155,0.57058,1.410923247,0.29802852
+11/16/2015,14,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.113,0.2,4.207568534,1.138412652
+12/7/2015,15,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.064,0.2,2.830440152,0.876729115
+1/11/2016,16,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.076,0.85,-2.561377093,0.764016853
+2/22/2016,17,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.053,0.5,1.20691022,0.658848161
+3/28/2016,18,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.039,1.1,-2.061781817,0.552721064
+4/25/2016,19,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.024,1.2,-0.57732162,0.125171306
+5/23/2016,20,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.018,3.7,2.412783072,0.051299284
+6/27/2016,21,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.025,2.2,1.426550806,0.042219257
+7/25/2016,22,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.028,2.7,2.499468116,0.036145978
+8/29/2016,23,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,NA,NA,NA,0.033901184
+9/26/2016,24,L,Skokomish,Skokomish R nr Potlatch,Olympic Mountains,0.041,2.4,-1.54383206,0.0465167
+10/27/2014,1,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.634,2.4504,-2.53866667,1.242448583
+11/17/2014,2,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.786,5.0415,-0.386153426,2.48141253
+12/15/2014,3,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.684,3.6772,-1.438256575,2.61830789
+1/26/2015,4,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.758,2.9333,3.9838395,2.863145586
+2/23/2015,5,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.829,4.9093,1.560131267,2.814977646
+3/23/2015,6,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.739,4.6,7.519235227,2.339305223
+4/27/2015,7,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.624,6.157,-0.645857621,1.639319948
+5/18/2015,8,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.639,NA,NA,0.878941975
+6/22/2015,9,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.778,6.8,2.211050715,0.577921862
+7/27/2015,10,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.573,5.2574,1.175431486,0.414301904
+8/17/2015,11,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.802,6.3204,1.891966942,0.407952154
+9/28/2015,12,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.776,6.4,2.891295456,0.419629298
+10/26/2015,13,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.757,6.6913,9.384910551,0.49541341
+11/16/2015,14,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.925,2.8,4.379325484,4.437364629
+12/7/2015,15,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.566,1.5209,4.214812702,5.033832068
+1/11/2016,16,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.952,4.8,3.420790438,3.922081835
+2/22/2016,17,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.684,2.896,-0.143915857,3.33452547
+3/28/2016,18,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.634,5.5132,0.421197083,3.838279873
+4/25/2016,19,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.737,6.0883,0.359551594,1.630542932
+5/23/2016,20,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.816,5.7,-0.479172509,1.082748618
+6/27/2016,21,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.709,7,3.790622063,0.750630918
+7/25/2016,22,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.831,6.2,3.086113793,0.613045758
+8/29/2016,23,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.875,6.3,1.414514205,0.600426169
+9/26/2016,24,M,Deschutes,Deschutes R @ E St Bridge,cascades,0.801,NA,NA,0.506225887
+10/29/2014,1,Z,Elwha,Elwha @ Port Angeles,olympics,0.053,0.075357,-3.97006296,0.228964077
+11/19/2014,2,Z,Elwha,Elwha @ Port Angeles,olympics,0.04,0.76055,-8.793923791,0.464164001
+12/1/2014,3,Z,Elwha,Elwha @ Port Angeles,olympics,NA,-0.39322,-7.257645383,0.619446194
+1/28/2015,4,Z,Elwha,Elwha @ Port Angeles,olympics,0.05,0.5,-3.702204441,0.350132813
+2/25/2015,5,Z,Elwha,Elwha @ Port Angeles,olympics,0.051,1.1,-3.319712668,0.469748585
+3/25/2015,6,Z,Elwha,Elwha @ Port Angeles,olympics,0.049,0.6,-1.431860412,0.199837458
+4/29/2015,7,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,0.6,16.69902702,0.065729369
+5/20/2015,8,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,3.1,20.39869786,0.02565184
+6/24/2015,9,Z,Elwha,Elwha @ Port Angeles,olympics,0.02,0.8,0.935733948,0.028200861
+7/29/2015,10,Z,Elwha,Elwha @ Port Angeles,olympics,0.027,1.3,2.676422204,0.02699578
+8/19/2015,11,Z,Elwha,Elwha @ Port Angeles,olympics,0.034,0.2,0.852892799,0.034106151
+9/30/2015,12,Z,Elwha,Elwha @ Port Angeles,olympics,0.035,0.8,4.138746304,0.056070332
+10/28/2015,13,Z,Elwha,Elwha @ Port Angeles,olympics,0.013,3.2,3.736797239,0.04626428
+11/18/2015,14,Z,Elwha,Elwha @ Port Angeles,olympics,0.08,0.4,-1.859369328,0.518271577
+12/9/2015,15,Z,Elwha,Elwha @ Port Angeles,olympics,0.052,-0.3,-2.516352419,0.432468331
+1/13/2016,16,Z,Elwha,Elwha @ Port Angeles,olympics,0.045,0.7,-4.65768654,0.363300494
+2/24/2016,17,Z,Elwha,Elwha @ Port Angeles,olympics,0.036,1.7,1.805303251,0.370145965
+3/30/2016,18,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,1.3,15.41318645,0.162699862
+4/27/2016,19,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,0.5,11.63813793,0.066449454
+5/25/2016,20,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,-0.9,47.71627463,0.05806425
+6/29/2016,21,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,1.7,31.31041631,0.047328513
+7/27/2016,22,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,-5.1,43.38049047,0.026359986
+8/31/2016,23,Z,Elwha,Elwha @ Port Angeles,olympics,0.01,0.7,7.986256355,0.014672958
+9/28/2016,24,Z,Elwha,Elwha @ Port Angeles,olympics,0.015,-0.1,8.484715944,0.014723857
